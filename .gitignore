@@ -33,3 +33,9 @@ lerna-debug.log*
 !.vscode/tasks.json
 !.vscode/launch.json
 !.vscode/extensions.json
+
+# certs
+/src/pay/certs/alipayPublicCert.crt
+/src/pay/certs/alipayRootCert.crt
+/src/pay/certs/appPublicCert.crt
+/src/pay/certs/private-key.pem
