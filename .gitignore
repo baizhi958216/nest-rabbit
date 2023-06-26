@@ -39,3 +39,5 @@ lerna-debug.log*
 /src/pay/certs/alipayRootCert.crt
 /src/pay/certs/appPublicCert.crt
 /src/pay/certs/private-key.pem
+
+.env
